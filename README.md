@@ -1,4 +1,3 @@
-# Pemrograman_AdeniaAzzahra_Onyx_TLS26
 # Tugas Pemrograman - Fase 1 dan Fase 2
 
 **Nama** : Adenia Azzahra
