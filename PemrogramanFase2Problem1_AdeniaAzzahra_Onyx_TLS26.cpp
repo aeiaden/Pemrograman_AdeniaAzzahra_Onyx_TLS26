@@ -23,6 +23,7 @@ int main() {
     int N, K;
     int astronaut[1000];
 
+    cout << "=== The Last Astronaut ===" << endl;
     cout << "Masukkan jumlah astronaut: ";
     cin >> N;
 
